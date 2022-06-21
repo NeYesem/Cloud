@@ -1,4 +1,4 @@
-Numpy==1.6.1
+Numpy==1.22.0
 Google-cloud==0.32.0
 google-api-python-client
 Flask==0.12.2
